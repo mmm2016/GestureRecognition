@@ -10,4 +10,4 @@
 
 
 
-![](.\assets\plot.png)
+![](./assets/plot.png)
